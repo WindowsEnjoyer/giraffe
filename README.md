@@ -2,8 +2,13 @@
 
 Experimental graphing library in go
 
-> a list of what is implemented so far :-
-
+- [What is a graphing library?](#what-is-a-graphing-library)
+- [Examples](#examples)
+  - [Depth-first search](#a-depth-first-search)
+  - [Get various centralities for the graph](#get-various-centralities-for-the-graph)
+  - [K-Means Clustering](#k-means-clustering)
+ 
+stuff implemented so far :-
 - Search
     - Breadth-First
     - Depth-First
@@ -14,12 +19,6 @@ Experimental graphing library in go
 - Clustering
     - K-Means
 - Export to [Mermaid](https://mermaid.js.org/)
-
-- [What is a graphing library?](#What-is-a-graphing-library?)
-- [Examples](#examples)
-  - [Depth-first search](#A-Depth-first-search)
-  - [Get various centralities for the graph](#Get-various-centralities-for-the-graph)
-  - [K-Means Clustering](#k-means-clustering)
     
 > [!NOTE]
 > I haven't used this library for serious experimentations with actual graph data. A lot of this is
